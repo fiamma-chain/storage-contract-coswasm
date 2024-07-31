@@ -1,16 +1,16 @@
 # Changelog
 
-## [v0.2.0](https://github.com/babylonchain/storage-contract/tree/v0.2.0) (2024-02-13)
+## [v0.2.0](https://github.com/babylonlabs-io/storage-contract/tree/v0.2.0) (2024-02-13)
 
-[Full Changelog](https://github.com/babylonchain/storage-contract/compare/v0.1.1...v0.2.0)
+[Full Changelog](https://github.com/babylonlabs-io/storage-contract/compare/v0.1.1...v0.2.0)
 
 **Merged pull requests:**
 
 - Small polish [\#4](https://github.com/babylonchain/storage-contract/pull/4) ([llllllluc](https://github.com/llllllluc))
 
-## [v0.1.1](https://github.com/babylonchain/storage-contract/tree/v0.1.1) (2024-01-24)
+## [v0.1.1](https://github.com/babylonlabs-io/storage-contract/tree/v0.1.1) (2024-01-24)
 
-[Full Changelog](https://github.com/babylonchain/storage-contract/compare/4c69ce7afb2a3beb99a63c69bb68f7bbb07b6d95...v0.1.1)
+[Full Changelog](https://github.com/babylonlabs-io/storage-contract/compare/4c69ce7afb2a3beb99a63c69bb68f7bbb07b6d95...v0.1.1)
 
 **Merged pull requests:**
 

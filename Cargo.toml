@@ -1,8 +1,7 @@
 [package]
 name = "storage-contract"
 version = "0.2.0"
-authors = ["KonradStaniec <konrad.staniec@gmail.com>",
-        "Mauro Lacy <mauro@lacy.com.es>"]
+authors = ["KonradStaniec <konrad.staniec@gmail.com>", "Mauro Lacy <mauro@lacy.com.es>"]
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
@@ -31,7 +30,7 @@ library = []
 optimize = "./scripts/optimizer.sh"
 
 [dependencies]
-babylon-bindings = {git = "https://github.com/babylonchain/bindings", tag = "v0.1.0"}
+babylon-bindings = {git = "https://github.com/babylonlabs-io/bindings", tag = "v0.1.0"}
 cosmwasm-schema = "1.5.3"
 cosmwasm-std = "1.5.3"
 cw-storage-plus = "1.2.0"
