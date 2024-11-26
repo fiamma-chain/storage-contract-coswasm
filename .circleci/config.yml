@@ -14,7 +14,7 @@ jobs:
             rustup default nightly
             rustup component add rustfmt clippy
       - run:
-          name: Build Babylon contract
+          name: Build contract
           command: |
             cargo build
       - run:
@@ -95,7 +95,7 @@ jobs:
           command: cargo install --debug --locked cosmwasm-check
       - run:
           name: Check the Wasm binary's validity against Wasm VM
-          command: cosmwasm-check --available-capabilities iterator,babylon ./artifacts/storage_contract.wasm
+          command: cosmwasm-check --available-capabilities iterator ./artifacts/storage_contract.wasm
       - run:
           name: Publish artifacts on GitHub
           command: |

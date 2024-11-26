@@ -30,7 +30,6 @@ library = []
 optimize = "./scripts/optimizer.sh"
 
 [dependencies]
-babylon-bindings = {git = "https://github.com/babylonlabs-io/bindings", tag = "v0.1.0"}
 cosmwasm-schema = "1.5.3"
 cosmwasm-std = "1.5.3"
 cw-storage-plus = "1.2.0"
@@ -39,4 +38,3 @@ hex = "0.4.3"
 sha2 = "0.10.8"
 thiserror = { version = "1.0.57" }
 
-[dev-dependencies]

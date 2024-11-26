@@ -1,7 +1,6 @@
-# Demo storage contract
+# Demo storage contract 
 
-Demo contract which enables saving arbitrary data into Babylon with bitcoin timestamped, and checking
-whether data is Bitcoin finalized.
+Demo contract fork from babylon which enables saving arbitrary data into Fiamma chain 
 
 Not for production. Best used as example.
 
